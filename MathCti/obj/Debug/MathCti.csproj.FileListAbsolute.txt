@@ -1,0 +1,62 @@
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\bin\Debug\MathCti.exe.config
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\bin\Debug\MathCti.exe
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\bin\Debug\MathCti.pdb
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.csprojResolveAssemblyReference.cache
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.frmLeisDeFormacao.resources
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.frmMenu.resources
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.frmPaPg.resources
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.Properties.Resources.resources
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.csproj.GenerateResource.Cache
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.csproj.CoreCompileInputs.cache
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.exe
+C:\Users\ra1757084\Documents\C#\Correto\MathCti\MathCti\obj\Debug\MathCti.pdb
+C:\Users\marco\Documents\C#\MathCti\MathCti\bin\Debug\MathCti.exe.config
+C:\Users\marco\Documents\C#\MathCti\MathCti\bin\Debug\MathCti.exe
+C:\Users\marco\Documents\C#\MathCti\MathCti\bin\Debug\MathCti.pdb
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.csprojResolveAssemblyReference.cache
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.frmLeisDeFormacao.resources
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.frmMenu.resources
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.frmPaPg.resources
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.Properties.Resources.resources
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.csproj.GenerateResource.Cache
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.exe
+C:\Users\marco\Documents\C#\MathCti\MathCti\obj\Debug\MathCti.pdb
+C:\Users\marco\Documents\MathCti\MathCti\bin\Debug\MathCti.exe.config
+C:\Users\marco\Documents\MathCti\MathCti\bin\Debug\MathCti.exe
+C:\Users\marco\Documents\MathCti\MathCti\bin\Debug\MathCti.pdb
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.csprojResolveAssemblyReference.cache
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.frmLeisDeFormacao.resources
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.frmMenu.resources
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.frmPaPg.resources
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.Properties.Resources.resources
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.csproj.GenerateResource.cache
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.exe
+C:\Users\marco\Documents\MathCti\MathCti\obj\Debug\MathCti.pdb
+C:\Users\User\Desktop\MathCti\MathCti\bin\Debug\MathCti.exe.config
+C:\Users\User\Desktop\MathCti\MathCti\bin\Debug\MathCti.exe
+C:\Users\User\Desktop\MathCti\MathCti\bin\Debug\MathCti.pdb
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.frmLeisDeFormacao.resources
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.frmMenu.resources
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.frmPaPg.resources
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.Properties.Resources.resources
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.exe
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.pdb
+C:\Users\User\Desktop\MathCti\MathCti\obj\Debug\MathCti.frmVerTermo.resources
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.csprojResolveAssemblyReference.cache
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.frmLeisDeFormacao.resources
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.frmMenu.resources
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.frmPaPg.resources
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.frmVerTermo.resources
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.Properties.Resources.resources
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.csproj.GenerateResource.cache
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.pdb
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\bin\Debug\MathCti.exe.config
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\bin\Debug\MathCti.exe
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\bin\Debug\MathCti.pdb
+C:\Users\marco\Documents\27.03 --_ Parte Pedro-20180327T055226Z-001\MathCti\MathCti\obj\Debug\MathCti.exe
