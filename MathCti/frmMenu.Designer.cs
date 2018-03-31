@@ -206,6 +206,7 @@
             this.Name = "frmMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "PaPg";
+            this.Load += new System.EventHandler(this.frmMenu_Load);
             this.pnlOpcoes.ResumeLayout(false);
             this.pnlFechar.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
